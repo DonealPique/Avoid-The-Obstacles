@@ -76,8 +76,8 @@ If you'd like to run or modify the game locally:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/DonealPique/Avoid-The-Obstacles.git
+   cd Avoid-The-Obstacles
    ```
 
 2. **Install Dependencies**:
