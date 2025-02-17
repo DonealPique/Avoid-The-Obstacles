@@ -1,9 +1,9 @@
 const CACHE_NAME = "avoid-the-obstacles-v1";
 const urlsToCache = [
   "/",
-  "./src/index.html",
-  "./docs/bundle.js",
-  "./public/manifest.json",
+  "index.html",
+  "bundle.js",
+  "manifest.json",
   "./public/Avoid-The-Obstacles-192.webp",
   "./public/Avoid-The-Obstacles-512.webp"
 ];
