@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DonealPique.github.io/Avoid-The-Obstacles/sitemap.xml
